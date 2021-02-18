@@ -1,0 +1,8 @@
+{
+  "generator-ts-microservice": {
+    "promptValues": {
+      "authorName": "Claudio Novoa",
+      "authorEmail": "claudio.novoa.b@gmail.com"
+    }
+  }
+}

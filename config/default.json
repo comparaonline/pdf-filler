@@ -1,0 +1,19 @@
+{
+  "raven": {
+    "dsn": "https://7e4e7819f5804784a0763babc786bb75@o114802.ingest.sentry.io/5642380"
+  },
+  "appName": "pdf-filler",
+  "server": {
+    "port": 4000,
+    "baseUrl": "/pdf-filler",
+    "logFormat": "tiny"
+  },
+  "datadog": {
+    "projectName": "pdf-filler",
+    "host": "datadog"
+  },
+  "winston": {
+    "format": "simple",
+    "level": "info"
+  }
+}
